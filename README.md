@@ -14,7 +14,7 @@ The main goal of this session is to learn the basics of Python programming. Name
 The codes are provided in a format that can be directly executed in google colab, so there's no need for installing anything to start learning python.
 
 | | Run in Colab |
-|-|-|-|
+|-|-|
 | [Interactive colab link](https://github.com/sina-mansour/IEEE_Unlock_Xtreme_15/blob/main/notebooks/Introduction_to_programming_with_Python.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sina-mansour/IEEE_Unlock_Xtreme_15/blob/main/notebooks/Introduction_to_programming_with_Python.ipynb) |
 
 
